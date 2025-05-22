@@ -2,6 +2,7 @@
 
 The AC3D Format add-on for Blender allows you to import and export 3D models using the Advanced Compressed 3D (AC3D) format. This format provides significant file size reduction through compression while maintaining visual quality.
 
+![Ac3dLogo](https://github.com/user-attachments/assets/e1951657-0028-41ce-91fa-a954c7a0f607)
 ## Installation
 
 1. **Download the Add-on**
